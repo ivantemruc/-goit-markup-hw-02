@@ -247,7 +247,8 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
-.footer {
+
+footer{
     background-color: #2E2F42;
     color: #FFFFFF;
 }
