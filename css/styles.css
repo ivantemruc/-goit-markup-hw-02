@@ -127,7 +127,67 @@ color: #2e2f42;}
 .header-list-contacts:focus{color: #404bbf;
 
 }
+address{
+    font-style:normal ;
+}
 
+.list {list-style: none;}
 
+.header-item-mail{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.header-item-tel{ font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
 
+.header-list-contacts:hover{color: #404bbf;}
+.header-list-contacts:focus{color: #404bbf;}
 
+.hero-image
+{background-color:  #2e2f42;}
+
+h3
+{font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;}
+
+button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+cursor: pointer;}
+
+    button:hover{ background-color: #404BBF;}
+
+button:focus{ background-color: #404BBF;}
+/*section2*/
+h2{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+}
+p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+/*section3*/
+h3{font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;}
