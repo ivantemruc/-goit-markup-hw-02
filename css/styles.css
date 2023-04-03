@@ -182,17 +182,12 @@ cursor: pointer;}
 
 button:focus{ background-color: #404BBF;}
 /*section2*/
-.container-wared{
-    position: absolute;
-width: 1128px;
-height: 104px;
-left: 156px;
-top: 792px;
 
-}
+
+
 
 .link-strategy
-{
+{width: 264px;
     font-family: 'Roboto';
 font-style: normal;
     font-weight: 500;
@@ -202,7 +197,7 @@ font-style: normal;
     color: #2e2f42
 }
 
-.link-puctuality{
+.link-puctuality{width: 264px;
     
     font-family: 'Roboto';
     font-style: normal;
@@ -215,7 +210,7 @@ font-style: normal;
 
 }
 
-.link-diligence{
+.link-diligence{width: 264px;
    
     font-family: 'Roboto';
 font-style: normal;
@@ -250,6 +245,16 @@ color: #2e2f42;}
 
 
 
+
+
+
+
+
+
+
+
+
+
 .logo-footer{ font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -262,6 +267,6 @@ list-style: none;}
     
     .footer-logo-span{color:#FFFFFF}
 
-    .footer{background-color: #2E2F42; color: #ffffff;
+    footer{background-color: #2E2F42; color: #ffffff;
     text-decoration: none;
 list-style: none;}
