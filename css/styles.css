@@ -248,9 +248,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
 
-footer{
-    background-color: #2E2F42;
-    color: #FFFFFF;
+
 }
 .logo-footer{ font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -263,3 +261,5 @@ text-decoration: none;
 list-style: none;}
     
     .footer-logo-span{color:#FFFFFF}
+
+    footer {background-color: #2E2F42; color: #ffffff;}
