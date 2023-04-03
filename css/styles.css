@@ -134,8 +134,12 @@ address{
     font-style:normal ;
 }
 
-.list {list-style: none;}
-
+.list {list-style: none;
+text-decoration: none;}
+>link {
+    text-decoration: none;
+    list-style: none;
+}
 .header-item-mail{
     font-size: 16px;
     line-height: 1.5;
