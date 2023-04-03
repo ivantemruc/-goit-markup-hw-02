@@ -240,50 +240,7 @@ color: #2E2F42;
 }
 
 
-.p-our
-{width: 264px;
-    height: 72px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;
-}
 
-.p-bring {width: 264px;
-    height: 72px;
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #434455;
-
-}
-
-
-.p-r{width: 264px;
-height: 24px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #2E2F42;}
-
-.p-d{width: 264px;
-    height: 72px;
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-color: #434455;
-letter-spacing: 0.02em;
-}
 
 /*section3*/
 .h3{font-size: 36px;
