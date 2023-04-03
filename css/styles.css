@@ -148,7 +148,8 @@ address{
 .header-list-contacts:focus{color: #404bbf;}
 
 .hero-image
-{background-color:  #2e2f42;}
+{background-color:  #2e2f42;
+color: #FFFFFF;}
 
 h3
 {font-size: 56px;
