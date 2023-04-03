@@ -83,15 +83,16 @@ body{background-color: #ffffff;
                         line-height: 1.17;
                         letter-spacing: 0.03em;
                         text-transform: uppercase;
-                        color: #4d5ae5;}
-                        .link {text-decoration: none;} 
+                        color: #4d5ae5;
+                        text-decoration: none;} 
                         
 .header-logo-span {color: #2e2f42;}
 .header-list-studio  {font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2e2f42;}
+        color: #2e2f42;
+    list-style: none;}
         .header-list-studio:hover{color: #404bbf;
 
         }
@@ -103,7 +104,8 @@ body{background-color: #ffffff;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;
+list-style: none;}
     .header-list-portfolio:hover{color: #404bbf;
 
     }
@@ -118,7 +120,8 @@ body{background-color: #ffffff;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #2e2f42;}
+color: #2e2f42;
+list-style: none;}
 
 
 .header-list-contacts:hover{color: #404bbf;
@@ -138,11 +141,14 @@ address{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-decoration: none;
 }
 .header-item-tel{ font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;}
+    color: #434455;
+text-decoration: none;
+}
 
 .header-list-contacts:hover{color: #404bbf;}
 .header-list-contacts:focus{color: #404bbf;}
@@ -172,19 +178,109 @@ cursor: pointer;}
 
 button:focus{ background-color: #404BBF;}
 /*section2*/
-.h2{
+.container-wared{
+    position: absolute;
+width: 1128px;
+height: 104px;
+left: 156px;
+top: 792px;
+
+}
+
+.link-strategy
+{width: 264px;
+    height: 24px;
+    font-family: 'Roboto';
+font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42
 }
-.p{
+
+.link-puctuality{width: 264px;
+    height: 24px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+
+
+}
+
+.link-diligence{
+    width: 264px;
+    height: 24px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.link-technologis{width: 264px;
+    height: 24px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+
+.p-our
+{width: 264px;
+    height: 72px;
+    font-family: 'Roboto';
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
 }
+
+.p-bring {width: 264px;
+    height: 72px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+
+}
+
+
+.p-r{width: 264px;
+height: 24px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;}
+
+.p-d{width: 264px;
+    height: 72px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #434455;
+letter-spacing: 0.02em;
+}
+
 /*section3*/
 .h3{font-size: 36px;
 line-height: 1.11;
