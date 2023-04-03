@@ -192,8 +192,7 @@ top: 792px;
 }
 
 .link-strategy
-{width: 264px;
-    height: 24px;
+{
     font-family: 'Roboto';
 font-style: normal;
     font-weight: 500;
@@ -203,8 +202,8 @@ font-style: normal;
     color: #2e2f42
 }
 
-.link-puctuality{width: 264px;
-    height: 24px;
+.link-puctuality{
+    
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -217,8 +216,7 @@ font-style: normal;
 }
 
 .link-diligence{
-    width: 264px;
-    height: 24px;
+   
     font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -229,7 +227,7 @@ color: #2E2F42;
 }
 
 .link-technologis{width: 264px;
-    height: 24px;
+    
     font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
