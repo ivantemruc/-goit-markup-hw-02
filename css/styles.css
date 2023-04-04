@@ -161,12 +161,11 @@ text-decoration: none;
 {background-color:  #2e2f42;
 color: #FFFFFF;}
 
-.h3
-{font-size: 56px;
-line-height: 1.07;
-text-align: center;
-letter-spacing: 0.02em;
-color: #ffffff;}
+
+
+
+
+
 
 button{
     background-color: #4D5AE5;
@@ -183,7 +182,40 @@ cursor: pointer;}
 button:focus{ background-color: #404BBF;}
 /*section2*/
 
+.head1 {font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+ .head2 {font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
 
+ .head3{font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;} 
+.head4{font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+
+.p-our{ font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+.p-bring{
+
+}  
+.p-r{font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.p-d{font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}    
 
 
 .link-strategy
@@ -236,23 +268,70 @@ color: #2E2F42;
 
 
 /*section3*/
-.h3{font-size: 36px;
+.warewd{font-size: 36px;
 line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
 
+/*section4*/
+.container-section4{
+    background-color: #f4f4fd;
+
+}
+.head-ot{font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;}
+
+.link-mark{background-color: #FFFFFF;}
+.head-mark{font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+.p-mark{ font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}    
 
 
+.link-tom{background-color: #FFFFFF;}
+.head-tom{font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+.p-tom{font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.link-camila{background-color: #FFFFFF;}
+.head-camila{font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+.p-camila{font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
 
 
-
-
-
-
-
-
+.link-daniel{background-color: #FFFFFF;}
+.head-daniel{font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+.p-daniel{font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
 
 
 .logo-footer{ font-family: 'Raleway', sans-serif;
